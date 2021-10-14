@@ -74,7 +74,7 @@ A very bright and colorful experiment with sound and sound effects will appeal t
 # Stack
 The project uses Arduino sensors to measure environmental properties. Animation and beautiful cartoon made in Unity 2021.1.0. When creating the visual part, Adobe Photoshop was used
 **Warning!**
-Project doesnt have *.png,.jpg,.mp3,.psd,.ttf* files
+Project doesnt have *.png, .jpg, .mp3, .psd, .ttf* files
 
 
 

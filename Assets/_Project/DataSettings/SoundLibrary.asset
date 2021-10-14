@@ -1,0 +1,74 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1f000dc8704e4fc499d90eb7783826c5, type: 3}
+  m_Name: SoundLibrary
+  m_EditorClassIdentifier: 
+  _data:
+  - lessonStepID: 0
+    audioClips:
+    - {fileID: 8300000, guid: 2f7f693fb5b273b4e85cdeb3cab1e8a4, type: 3}
+    - {fileID: 8300000, guid: 6992b28706b650544afb8a5ce37ba8da, type: 3}
+    volume: 1
+  - lessonStepID: 1
+    audioClips:
+    - {fileID: 8300000, guid: 07c690e310e89744c8ddd6e058f35362, type: 3}
+    volume: 1
+  - lessonStepID: 2
+    audioClips:
+    - {fileID: 8300000, guid: 81dd9ebaa51346f4b960881b70baff2a, type: 3}
+    volume: 1
+  - lessonStepID: 3
+    audioClips:
+    - {fileID: 8300000, guid: 2ad0f169b558d4b4a8bda379e65e650d, type: 3}
+    volume: 1
+  - lessonStepID: 4
+    audioClips:
+    - {fileID: 8300000, guid: 1183a959ef83e7f418734c264b0c6077, type: 3}
+    volume: 1
+  - lessonStepID: 5
+    audioClips:
+    - {fileID: 8300000, guid: eeab08a89169df74f89498467a0fd692, type: 3}
+    volume: 1
+  - lessonStepID: 6
+    audioClips:
+    - {fileID: 8300000, guid: 3c43a7a4b180a2f4197e59972a0d5571, type: 3}
+    volume: 1
+  - lessonStepID: 7
+    audioClips:
+    - {fileID: 8300000, guid: 421e0875658ef1e48b06bfe90c8e85f7, type: 3}
+    volume: 1
+  - lessonStepID: 8
+    audioClips:
+    - {fileID: 8300000, guid: bfd1f44a79a0956468130db2774dd47e, type: 3}
+    volume: 1
+  - lessonStepID: 9
+    audioClips:
+    - {fileID: 8300000, guid: 755b0e7f953d70a4fb05e5d90edc9f49, type: 3}
+    volume: 1
+  - lessonStepID: 10
+    audioClips:
+    - {fileID: 8300000, guid: b0a024d4d1c29ab47a349efd3e94da8e, type: 3}
+    volume: 1
+  - lessonStepID: 11
+    audioClips:
+    - {fileID: 8300000, guid: 9760070d38f712e4c844f092c0332d31, type: 3}
+    volume: 1
+  - lessonStepID: 12
+    audioClips:
+    - {fileID: 8300000, guid: 605f3509696ed1e46b5fbec629cdfdb7, type: 3}
+    volume: 1
+  - lessonStepID: 13
+    audioClips:
+    - {fileID: 8300000, guid: 72be040df85dcc04f8c489d6d901b633, type: 3}
+    - {fileID: 8300000, guid: e02f0d728b9abde48951d885ceaebb50, type: 3}
+    - {fileID: 8300000, guid: 3fc71940841aca74da5bc01a2549e7ec, type: 3}
+    volume: 1

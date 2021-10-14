@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 95f9b67c76579b547b7474b7390258eb, type: 3}
+  m_Name: Voltage
+  m_EditorClassIdentifier: 
+  emulatorName: Voltage
+  template: $v{0};
+  minValue: -500
+  maxValue: 500
+  multiplier: 1
+  period: 10
